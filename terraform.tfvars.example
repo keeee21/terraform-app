@@ -30,3 +30,8 @@ availability_zones = {
   "1c" = "ap-northeast-1c"
   "1d" = "ap-northeast-1d"
 }
+
+# ========================================== #
+# Domain Name
+# ========================================== #
+domain = "hogehoge.com"

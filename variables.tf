@@ -49,3 +49,10 @@ variable "availability_zones" {
   description = "Availability Zones"
   type        = map(string)
 }
+
+# ========================================== #
+# Domain Name
+# ========================================== #
+variable "domain" {
+  type = string
+}
