@@ -23,7 +23,7 @@
                   |                                   |
         +--------------------+            +----------------------+
         |    Public Subnet   |            |   Private Subnet     |
-        | (Availability Zone)|           | (Availability Zone)  |
+        | (Availability Zone)|            | (Availability Zone)  |
         +--------------------+            +----------------------+
                   |                                  |
         +--------------------+                       |
